@@ -1,11 +1,11 @@
 import './App.css'
-import BeerCatalog from './Card'
+import CoffeeCatalog from './Card'
 
 function App() {
 
   return (
     <>
-      <BeerCatalog/>
+      <CoffeeCatalog/>
     </>
   )
 }
